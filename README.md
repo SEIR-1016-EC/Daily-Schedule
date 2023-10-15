@@ -11,7 +11,7 @@
 ---
 <br>
 
-## Midday Break  → 1230 - 130 PM 🌮
+## Midday Break  → 1 - 2 PM 🌮
 
 <br>
 
@@ -21,6 +21,6 @@
 
 | Time (EST) | Activity Type | Description | Comments |
 | --- | --- | --- | --- |
-| 1 PM - 2 PM | Post Lesson /  Review | An opportunity to ask follow-up questions prior to the start of PM work time. | We recommend posting in the debug channel as early as possible for timely support. |
+| 2 PM - 230 PM | Post Lesson /  Review | An opportunity to ask follow-up questions prior to the start of PM work time. | We recommend posting in the debug channel as early as possible for timely support. |
 | 2 PM - 415 PM | PM Lab Time | `Async` work time to dive deeper into lesson content and practice new tools / techniques.  | Working with a partner is *highly* encouraged; it speeds up your problem-solving and research during async worktimes. |
 | 415 PM - 5 PM | Pods + Coding Challenge | An end-of-day ceremony to relax, ask questions, and mentally prepare for the evening homework.   | Pods are randomly assigned groups and rotate each unit. |
